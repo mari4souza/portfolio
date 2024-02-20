@@ -154,6 +154,11 @@ body::before {  /* criei uma camada de background separada para a opacidade nao 
     padding: 2% 0% 0% 15%;
 }
 
+.cabecalho__menu__about {
+    display: flex;
+    gap: 80px;
+}
+
 
 .apresentacao__about {
     padding: 3% 5%;
@@ -199,6 +204,7 @@ body::before {  /* criei uma camada de background separada para a opacidade nao 
 
     .cabecalho__menu {
         justify-content: center;
+        gap: 50px;
     }
 
     .apresentacao {
@@ -215,6 +221,10 @@ body::before {  /* criei uma camada de background separada para a opacidade nao 
         padding: 5%;
     }
 
+    .cabecalho__menu__about {
+        gap: 50px;
+    }
+
     .apresentacao__about{
         flex-direction: column-reverse;
         padding: 5%;
@@ -222,6 +232,10 @@ body::before {  /* criei uma camada de background separada para a opacidade nao 
 
     .apresentacao__conteudo__about {
         width: auto; /*ou 100%*/
+    }
+
+    .imagem__about {
+        max-width: 300px;
     }
 
 }
