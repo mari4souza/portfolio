@@ -3,3 +3,7 @@ Olá, sou Maria Eduarda, Analista & Desenvolvedora de Software em formação e e
 
 Este portfólio foi desenvolvido durante o curso de Iniciante em Programação T6 - ONE / Alura, no qual trabalhamos com as linguagens HTML e CSS. Esta é primeira versão, porém futuramente pretendo incrementá-lo com tecnologias mais robustas.
 
+<img src="/assets/images/preview.png">
+
+[Check out here ★](https://secret-number-game-one.vercel.app/)
+
