@@ -5,5 +5,5 @@ Este portfólio foi desenvolvido durante o curso de Iniciante em Programação T
 
 <img src="/assets/images/preview.png">
 
-[Check out here ★]((https://mari4souza-portfolio.vercel.app/)https://mari4souza-portfolio.vercel.app/)
+[Check out here ★](https://mari4souza-portfolio.vercel.app/)
 
